@@ -1,0 +1,12 @@
+{
+    "name": "Personal World Clock",
+    "version": "1.0.0",
+    "description": "Live World Clock",
+    "manifest_version": 3,
+    "author": "Riyadh Ahmed",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Personal World Clock",
+        "default_icon": "Icon.png"
+    }
+}
